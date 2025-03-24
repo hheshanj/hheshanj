@@ -7,4 +7,4 @@
     - [Discord](https://discordapp.com/users/736142757420072991)
     - [Reddit](https://www.reddit.com/user/Appropriate-Show8753/)
  
-[![hheshanj's GitHub stats](https://github-readme-stats.vercel.app/api?username=hheshanj)](https://github.com/anuraghazra/github-readme-stats)
+  ![HHeshanj](https://github-readme-stats.vercel.app/api?username=hheshanj&show_icons=true&theme=radical)
