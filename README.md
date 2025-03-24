@@ -2,6 +2,6 @@
 - 👀 I’m interested in Ethical Hacking and Web Development
 - 🤝 I’m looking to collaborate on Bug Bounty Hunting and Web Development
 - 📫 How to reach me
-    - [Instagram](https://instagram.com/hheshan_j)
     - [LinkedIn](https://www.linkedin.com/in/heshan-jayakody-6a2a71270/)
-    - [EmailMe](mail.to:hheshanj@gmail.com)
+    - [Instagram](https://instagram.com/hheshan_j)
+    - [Discord](https://discordapp.com/users/736142757420072991)
