@@ -5,9 +5,8 @@
     - [Discord](https://discordapp.com/users/736142757420072991)
     - [Reddit](https://www.reddit.com/user/Appropriate-Show8753/)
  
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hheshanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hheshanj&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hheshanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
