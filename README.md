@@ -4,8 +4,6 @@
     - [Instagram](https://instagram.com/hheshan_j)
     - [Discord](https://discordapp.com/users/736142757420072991)
     - [Reddit](https://www.reddit.com/user/Appropriate-Show8753/)
- 
-![](https://github-readme-stats.vercel.app/api?username=hheshanj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=hheshanj&show_icons=true&theme=radical)
 ---
