@@ -1,8 +1,8 @@
 # Hi 👋, I'm Hasitha Jayakody
 
-### A passionate Html developer
+### A passionate Web Developer
 
-<img height="250" align="right" src="https://i.pinimg.com/originals/84/61/82/846182a58a1c485ddd3e994fda30c744.gif](https://media.tenor.com/8xIPQo6HL_EAAAAM/lisa-lalisa.gif" />
+<img height="250" align="right" src="https://media.tenor.com/OVQe8KM9xy0AAAAi/maxgames331535-zero-two.gif" />
 
 - 🔭 I'm currently working on **A spam detection tool using python**
 
