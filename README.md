@@ -4,7 +4,7 @@
 
 <img height="250" align="right" src="https://media.tenor.com/OVQe8KM9xy0AAAAi/maxgames331535-zero-two.gif" />
 
-- 🔭 I'm currently working on **A spam detection tool using python**
+- 🔭 I'm currently working on **A network monitoring tool using python**
 
 - 🌱 I'm currently learning **Java-Script**
 
