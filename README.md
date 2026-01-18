@@ -1,6 +1,6 @@
 # Hola 👋, I'm Hasitha Jayakody
 
-<img height="250" align="right" src="https://media.tenor.com/OVQe8KM9xy0AAAAi/maxgames331535-zero-two.gif" />
+<img height="250" align="right" src=https://media1.tenor.com/m/3Sykma8la9gAAAAC/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif>
 
 i code btw ( definetly not using arch )
 
