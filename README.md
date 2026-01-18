@@ -17,7 +17,7 @@ i code btw ( definetly not using arch )
 
 <br>
 
-## GitHub Stats:
+## 📊 Github Activity:
 <br>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=hheshanj&theme=dark&hide_border=false" height="220" alt="streak graph"  />
