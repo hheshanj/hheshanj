@@ -4,8 +4,9 @@
 
 i code btw ( definetly not using arch )
 
-- My blog  **[blog.hhjdev.xyz](https://blog.hhjdev.xyz/)**
 - My Portfolio **[hhjdev.xyz](https://hhjdev.xyz/)**
+- My blog  **[blog.hhjdev.xyz](https://blog.hhjdev.xyz/)**
+- NotesHub(only applicable for NSBM Students) **[notes.hhjdev.xyz](https://notes.hhjdev.xyz/)**
 
 <br>
 <h3 align="left">Connect with me:</h3>
