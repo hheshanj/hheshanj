@@ -5,7 +5,7 @@
 i code btw ( definetly not using arch )
 
 - My Portfolio **[hhjdev.xyz](https://hhjdev.xyz/)**
-- My blog  **[blog.hhjdev.xyz](https://blog.hhjdev.xyz/)**
+- My blog  **[helix](https://helix.hhjdev.xyz/)**
 - NotesHub(only applicable for NSBM Students) **[notes.hhjdev.xyz](https://notes.hhjdev.xyz/)**
 
 <br>
